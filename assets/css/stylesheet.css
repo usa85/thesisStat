@@ -9,6 +9,10 @@
   padding-top: 10px;
   padding-bottom:25px;
   margin-bottom:0px;
+  font-size: 0.8rem;
+}
+.smallspan{
+  font-size:1rem;
 }
 #map{
     height: 350px;

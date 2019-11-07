@@ -1,3 +1,6 @@
+body {
+  background-image: url("../images/ExitRampsRogers.png");
+}
 .fakeimg {
     height: 150px;
     background: #aaa;
@@ -18,4 +21,11 @@
     height: 350px;
     width: 100%;
 
+}
+.container{
+  opacity: 1;
+}
+.mainbodybg{
+  background-color:#e9ecef;
+  opacity:0.7;
 }

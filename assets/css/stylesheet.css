@@ -1,7 +1,15 @@
 .fakeimg {
-    height: 200px;
+    height: 150px;
     background: #aaa;
   }
+.jumbot{ 
+  margin-bottom:-5px; 
+}
+.jumbotron{
+  padding-top: 10px;
+  padding-bottom:25px;
+  margin-bottom:0px;
+}
 #map{
     height: 350px;
     width: 100%;

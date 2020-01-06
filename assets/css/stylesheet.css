@@ -1,5 +1,6 @@
 body {
   background-image: url("../images/ExitRampsRogers.PNG");
+  opacity:1
 }
 .fakeimg {
     height: 150px;
@@ -8,6 +9,11 @@ body {
 .jumbot{ 
   margin-bottom:-5px; 
 }
+.superactive{
+  color: yellow;
+}
+
+
 .jumbotron{
   padding-top: 10px;
   padding-bottom:25px;
@@ -27,5 +33,5 @@ body {
 }
 .mainbodybg{
   background-color:#e9ecef;
-  opacity:0.8;
+  opacity:0.9;
 }

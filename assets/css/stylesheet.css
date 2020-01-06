@@ -11,6 +11,7 @@ body {
   }
 .jumbot{ 
   margin-bottom:-5px; 
+  font-size: 0.8rem;
 }
 .superactive{
   color: yellow;
@@ -28,6 +29,9 @@ body {
   padding-bottom:25px;
   margin-bottom:0px;
   font-size: 0.8rem;
+}
+.espacebefore{
+  padding-top: 10px;
 }
 .smallspan{
   font-size:1rem;
